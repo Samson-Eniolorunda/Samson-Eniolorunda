@@ -3,9 +3,8 @@
 ![Learning Badge](https://img.shields.io/badge/Learning-Front--end%20Development-yellow?style=for-the-badge)
 
 🎓 **B.A. History & International Studies** — Adekunle Ajasin University  
-💻 **Aspiring Front-End Developer | LTech Enthusiast**  
+💻 **Aspiring Front-End Developer | Tech Enthusiast**  
 📍 Based in **Lagos State, Nigeria**
-🔥 Passionate about growth, innovation, and solving real-world problems through creativity and collaboration.  
 
 ---
 
