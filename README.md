@@ -9,7 +9,7 @@
 ---
 
 ## 🌱 Currently Learning
-I'm currently enrolled in a front-end web development course at Product Hub Africa covering:
+I'm currently enrolled in a front-end development course at Product Hub Africa covering:
 
 ## 💻 Languages & Frameworks
 <p align="left">
