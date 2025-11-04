@@ -4,9 +4,12 @@
 
 🎓 **B.A. History & International Studies** — Adekunle Ajasin University  
 💻 **Aspiring Front-End Developer | Tech Enthusiast**  
-📍 Based in **Lagos State, Nigeria**
+📍 Based in **Lagos State, Nigeria*
 
 ---
+
+## 🌱 Currently Learning
+I'm currently enrolled in a front-end web development course at Product Hub Africa covering:
 
 ## 💻 Languages & Frameworks
 <p align="left">
