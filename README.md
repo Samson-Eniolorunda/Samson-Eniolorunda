@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Samson Eniolorunda**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Status-Leveling%20Up-blueviolet?style=for-the-badge&logo=react&logoColor=white" alt="Status: Leveling Up" />
+  <img src="https://img.shields.io/badge/Status-Leveling%20Up-blueviolet?style=for-the-badge&logo=javascript&logoColor=white" alt="Status: Leveling Up" />
   <img src="https://img.shields.io/badge/Mentorship-Open%20to%20Mentorship-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Mentorship" />
 </div>
 
@@ -26,7 +26,7 @@ I have successfully completed my foundational training in the "Holy Trinity" of 
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" alt="My Skills" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ I have successfully completed my foundational training in the "Holy Trinity" of 
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwindcss,redux,sass,vue,angular,svelte,vite,figma" alt="Learning Next" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwindcss,redux,sass,vue,angular,vite,figma" alt="Learning Next" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ I have successfully completed my foundational training in the "Holy Trinity" of 
 
 ## 🤝 Open to Mentorship
 I am a dedicated learner with a strong work ethic. I am **actively seeking mentorship** from senior engineers who can guide me in:
-- Best practices for **React.js & Next.js** architecture.
+- Mastering **React.js** architecture.
 - Writing clean, maintainable, and scalable code.
 - Navigating the professional software engineering landscape.
 
@@ -92,12 +92,9 @@ I love seeing my code come to life in the browser; there’s nothing more exciti
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Eniolorunda&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Eniolorunda&layout=compact&theme=tokyonight)
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samson-Eniolorunda&show_icons=true&theme=tokyonight" alt="Samson's GitHub Stats" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samson-Eniolorunda&show_icons=true&theme=tokyonight)
