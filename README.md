@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Samson Eniolorunda**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Status-Leveling%20Up-blueviolet?style=for-the-badge&logo=javascript&logoColor=white" alt="Status: Leveling Up" />
+  <img src="https://img.shields.io/badge/Status-Leveling%20Up-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" alt="Status: Leveling Up" />
   <img src="https://img.shields.io/badge/Mentorship-Open%20to%20Mentorship-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Mentorship" />
 </div>
 
@@ -71,15 +71,15 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://x.com/official____btb" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X (Twitter)" />
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X (Twitter)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:eniolorundasamson@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email" />
   </a>
 </p>
 
