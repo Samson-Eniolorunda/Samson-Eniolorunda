@@ -1,9 +1,11 @@
 # 👋 Hi, I'm **Samson Eniolorunda**
 
-<p align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/Status-Leveling%20Up-blueviolet?style=for-the-badge&logo=react&logoColor=white" alt="Status: Leveling Up" />
   <img src="https://img.shields.io/badge/Mentorship-Open%20to%20Mentorship-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Mentorship" />
-</p>
+</div>
+
+<br />
 
 🎓 **B.A. History & International Studies** — Adekunle Ajasin University  
 💻 **Front-End Developer | Tech Enthusiast** 📍 Based in **Lagos State, Nigeria**
@@ -19,22 +21,37 @@ I have successfully completed my foundational training in the "Holy Trinity" of 
 
 ## 💻 Technical Arsenal
 
-### 🛠️ Current Proficiencies
-*Technologies I use daily to build projects:*
+### 🔹 Current Languages & Frameworks
+*The core technologies I currently use to build projects:*
+<br />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,git,github,vscode,vercel" alt="Current Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="My Skills" />
+  </a>
 </p>
 
-### 🔭 Tech Stack Radar (Aspiring to Learn)
-*Modern frameworks and tools I am actively learning or plan to master next:*
+### 🔹 Tools & Platforms
+*The tools that power my workflow and deployment:*
+<br />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwindcss,redux,sass,vue,angular,svelte,vite,figma" alt="Aspiring Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="My Tools" />
+  </a>
+</p>
+
+### 🔹 Tech Stack Radar (Aspiring to Learn)
+*Modern frameworks and tools I am actively learning or plan to master next:*
+<br />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwindcss,redux,sass,vue,angular,svelte,vite,figma" alt="Learning Next" />
+  </a>
 </p>
 
 ---
 
 ## 🤝 Open to Mentorship
-I am a dedicated learner with a strong work ethic (honed by running my own business). I am **actively seeking mentorship** from senior engineers who can guide me in:
+I am a dedicated learner with a strong work ethic. I am **actively seeking mentorship** from senior engineers who can guide me in:
 - Best practices for **React.js & Next.js** architecture.
 - Writing clean, maintainable, and scalable code.
 - Navigating the professional software engineering landscape.
@@ -44,7 +61,7 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 ---
 
 ## 🎯 What’s Next
-- migrating my projects from **Bootstrap** to **Tailwind CSS**.
+- Migrating my projects from **Bootstrap** to **Tailwind CSS**.
 - Learning **TypeScript** to write safer code.
 - Building a full-stack application using **Next.js**.
 
