@@ -84,16 +84,15 @@ I love seeing my code come to life in the browser; there’s nothing more exciti
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samson-Eniolorunda&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+## 📊 GitHub Stats
 
-## 📊 Consistency & Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samson-Eniolorunda&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samson-Eniolorunda&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Most Commits" />
+</p>
+-Eniolorunda&theme=tokyonight" alt="Languages" />
 </p>
