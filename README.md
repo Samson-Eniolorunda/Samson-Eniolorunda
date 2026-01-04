@@ -70,16 +70,16 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://x.com/s_eniolorunda_" target="blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/official____btb" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X (Twitter)" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:eniolorundasamson@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
   </a>
 </p>
 
@@ -92,11 +92,16 @@ I love seeing my code come to life in the browser; there’s nothing more exciti
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samson-Eniolorunda&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Eniolorunda&layout=compact&theme=tokyonight)
+## 📊 Consistency & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samson-Eniolorunda&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samson-Eniolorunda&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Languages" />
+</p>
