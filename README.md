@@ -92,16 +92,11 @@ I love seeing my code come to life in the browser; there’s nothing more exciti
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samson-Eniolorunda&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+## 📊 GitHub Stats
 
-## 📊 Consistency & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samson-Eniolorunda&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Eniolorunda&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Languages" />
-</p>
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samson-Eniolorunda&show_icons=true&theme=tokyonight)
+
