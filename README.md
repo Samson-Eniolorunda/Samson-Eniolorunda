@@ -94,8 +94,11 @@ I love seeing my code come to life in the browser; there’s nothing more exciti
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Eniolorunda&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samson-Eniolorunda&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samson-Eniolorunda&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Most Commits" />
+</p>
