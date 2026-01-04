@@ -61,6 +61,7 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 ---
 
 ## 🎯 What’s Next
+- Mastering **React.js** core concepts (Components, State, Hooks).
 - Migrating my projects from **Bootstrap** to **Tailwind CSS**.
 - Learning **TypeScript** to write safer code.
 - Building a full-stack application using **Next.js**.
