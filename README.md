@@ -71,7 +71,7 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://x.com/s_eniolorunda_" target="blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="blank">
