@@ -70,14 +70,12 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://x.com/official____btb" target="_blank">
+  <a href="https://x.com/s_eniolorunda_" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:eniolorundasamson@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email" />
   </a>
