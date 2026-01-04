@@ -19,9 +19,9 @@ I have successfully completed my foundational training in the "Holy Trinity" of 
 
 ---
 
-## 💻 Technical Arsenal
+## 💻 Tech Stack
 
-### 🔹 Current Languages & Frameworks
+### 🔹 Core Languages & Frameworks
 *The core technologies I currently use to build projects:*
 <br />
 <p align="left">
@@ -39,7 +39,7 @@ I have successfully completed my foundational training in the "Holy Trinity" of 
   </a>
 </p>
 
-### 🔹 Tech Stack Radar (Aspiring to Learn)
+### 🔹 Future Stack (Learning Radar)
 *Modern frameworks and tools I am actively learning or plan to master next:*
 <br />
 <p align="left">
@@ -70,15 +70,9 @@ If you are willing to guide a hungry entry-level developer, please connect with 
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://x.com/s_eniolorunda_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)" />
-  </a>
-  <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eniolorundasamson@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email" />
-  </a>
+  <a href="https://x.com/s_eniolorunda_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X (Twitter)" /></a>
+  <a href="https://linkedin.com/in/samson-eniolorunda-4427ab95" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:eniolorundasamson@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email" /></a>
 </p>
 
 ---
