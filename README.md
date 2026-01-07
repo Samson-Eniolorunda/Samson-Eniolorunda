@@ -95,10 +95,3 @@ I love seeing my code come to life in the browser; there’s nothing more exciti
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samson-Eniolorunda&theme=tokyonight" alt="Most Commits" />
 </p>
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Eniolorunda&layout=compact&theme=tokyonight)
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samson-Eniolorunda&show_icons=true&theme=tokyonight)
